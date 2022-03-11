@@ -9,7 +9,7 @@
 body {
   width: 100%;
   height: 100%;
-  background-image: url('../images/images\(44)');
+  background-image: url('../images/bg.png');
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -18,7 +18,6 @@ body {
   margin: 0;
 }
 .container {
-  box-shadow: 2px 2px 5px rgb(0,0,0,0.315);
   height: 530px;
   width: 500px;
   overflow: hidden;
